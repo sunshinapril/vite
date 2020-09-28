@@ -47,23 +47,9 @@ const box = defineComponent({
     // },
     // setup返回的dom结构优先级比render函数高
     render() {
-        // return h('ul', this.userInfo.nodes.map(node => {
-        //         return h('li',node.name)
-        //     })
-        // )
-        return (
-            <>
-                <a-select
-                    v-model = {this.value}
-                    mode="tags"
-                    style={styles}
-                    placeholder="Tags Mode"
-                >
-                    {this.userInfo.nodes.map(node => {
-                        return <a-select-option>{node.name}</a-select-option>
-                    })}
-                </a-select>
-            </>
+        return h('a-select', this.userInfo.nodes.map(node => {
+                return h('a-button', {type: 'primary'}, node.name)
+            })
         )
     }
 })
