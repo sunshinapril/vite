@@ -1,0 +1,30 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "allowSyntheticDefaultImports": true,
+        "declaration": false,
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "module": "es2020",
+        "moduleResolution": "node",
+        "noImplicitAny": false,
+        "noImplicitThis": true,
+        "noImplicitReturns": true,
+        "noLib": false,
+        "sourceMap": true,
+        "strict": true,
+        "strictPropertyInitialization": false,
+        "suppressImplicitAnyIndexErrors": true,
+        "target": "es2020",
+        "baseUrl": ".",
+        "jsx": "preserve"
+    },
+    "exclude": [
+        "./node_modules"
+    ],
+    "include": [
+        "./src/**/*.ts",
+        "./src/**/*.tsx",
+        "./src/**/*.vue"
+    ]
+}
