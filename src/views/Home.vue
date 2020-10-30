@@ -16,7 +16,6 @@ export default {
   data() {
     return {
       home: 'home',
-      svg
     }
   }
 }
