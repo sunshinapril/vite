@@ -1,35 +1,39 @@
 <template>
-<div id="layout">
-  <a-layout>
-    <a-layout-header>Vite有限公司</a-layout-header>
+  <div id="layout">
     <a-layout>
-      <a-layout-sider>
-        <side-nav></side-nav>
-      </a-layout-sider>
-      <a-layout-content>
-        <router-view></router-view>
-      </a-layout-content>
+      <a-layout-header>Vite有限公司</a-layout-header>
+      <a-layout>
+        <a-layout-sider>
+          <side-nav />
+        </a-layout-sider>
+        <a-layout-content>
+          <div class="g-main">
+            <router-view />
+          </div>
+          <!--        <a-layout-footer>Footer</a-layout-footer>-->
+        </a-layout-content>
+      </a-layout>
     </a-layout>
-    <a-layout-footer>Footer</a-layout-footer>
-  </a-layout>
-</div>
-</template>  
+  </div>
+</template>
 <script lang="ts">
 import SideNav from './components/SideNav.vue';
+
 export default {
   name: 'App',
   components: {
     SideNav
   }
-}
+};
 </script>
 <style lang="less" scoped>
-#layout{
+#layout {
   height: 100%;
   .ant-layout {
     height: 100%;
-    .ant-layout-header,.ant-layout-footer {
-      height: 5%;
+    .ant-layout-header,
+    .ant-layout-footer {
+      //height: 5%;
       background: #7dbcea;
       color: #fff;
     }
@@ -44,6 +48,12 @@ export default {
     }
     .ant-layout-content {
       height: 100%;
+      display: flex;
+      flex-direction: column;
+      .g-main {
+        flex: 1;
+        padding: 15px;
+      }
     }
   }
 }

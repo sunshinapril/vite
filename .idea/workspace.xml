@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4ed409c-e919-4507-935b-4f7416159469" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SideNav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SideNav.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/box.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/box.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/Apis/Supply/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Apis/Supply/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/Apis/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/Apis/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/request.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/request.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/inject.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/inject.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shim-vue.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shim-vue.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shim.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/shim.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/modules/common.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/modules/common.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1matYPIyvsTfp55Dilp3q5iyvgT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4ed409c-e919-4507-935b-4f7416159469" name="Default Changelist" comment="" />
+      <created>1609743576500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609743576500</updated>
+      <workItem from="1609743577559" duration="1284000" />
+      <workItem from="1609745121868" duration="3207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="543" y="188" key="#ESLint" timestamp="1609744183046">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="543" y="188" key="#ESLint/-238.-1417.2560.1417/0.23.1440.795@0.23.1440.795" timestamp="1609744183046" />
+    <state x="100" y="123" width="1240" height="595" key="DiffContextDialog" timestamp="1609747794943">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="100" y="123" width="1240" height="595" key="DiffContextDialog/0.23.1440.795@0.23.1440.795" timestamp="1609747794943" />
+    <state x="149" y="23" key="SettingsEditor" timestamp="1609744207323">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="149" y="23" key="SettingsEditor/-238.-1417.2560.1417/0.23.1440.795@0.23.1440.795" timestamp="1609744207323" />
+  </component>
+</project>

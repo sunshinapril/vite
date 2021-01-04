@@ -2,15 +2,16 @@ import { Router } from 'vue-router';
 import { Store } from 'vuex';
 // 用于添加自定义全局变量
 declare module '@vue/runtime-core' {
-    interface RootState {
-      version: string;
-    }
-    interface ComponentCustomProperties {
-        $router: Router,
-        $http: any,
-        $api: any,
-        $store: Store<RootState>
-    }
+  interface RootState {
+    version: string;
+  }
+
+  interface ComponentCustomProperties {
+    $router: Router;
+    $http: any;
+    $api: any;
+    $store: Store<RootState>;
+  }
 }
 // 自定义全局声明
 declare namespace Ajax {

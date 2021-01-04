@@ -1,5 +1,5 @@
 console.log('.prettierrc.js')
-export default {
+module.exports = {
     "arrowParens": "avoid",
     "tabWidth": 2,
     "useTabs": false,
